@@ -10,7 +10,7 @@ format:
 natbiboptions: numbers
 # EDIT AT YOUR OWN PERIL #
 
-title: Junior Seminar Research Report Title
+title: Brennen's Proxy Title
 
 firstreader: Professor Gregory M. Kapfhammer
 secondreader: Student Second Reader
@@ -18,7 +18,7 @@ secondreader: Student Second Reader
 bibliography: references.bib
 
 author:
-  - name: A. Student
+  - name: Brennen McWright
     affiliation:
       name: Allegheny College
       address: 520 N. Main St., Box Q
