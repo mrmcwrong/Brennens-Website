@@ -1,0 +1,37 @@
+---
+title: "Journal Entry 2: Prototype Installation and Use"
+date: "2026-02-01"
+categories: [prototype, documentation]
+description: "How do you install and use your research prototype?"
+---
+
+![Research prototype](../thumbnail.jpg)
+
+## How do you install and use your research prototype?
+
+In this journal entry, provide clear documentation for your research prototype.
+Your goal is to make it easy for someone else to install and use your work.
+
+### Installation Instructions
+
+- What are the system requirements?
+- What dependencies need to be installed?
+- What are the step-by-step installation instructions?
+- How can someone verify that the installation was successful?
+
+### Usage Instructions
+
+- How do you run your prototype?
+- What are the main features or capabilities?
+- What are some example use cases?
+- Are there any configuration options or settings?
+
+### Technical Details
+
+- What technologies or frameworks did you use?
+- Why did you choose these particular tools?
+- What are the key components or modules?
+- How do the different parts work together?
+
+Remember to include code snippets, screenshots, or diagrams where appropriate to
+make your instructions clear and easy to follow.

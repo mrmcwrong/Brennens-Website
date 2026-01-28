@@ -1,0 +1,40 @@
+---
+title: "Journal Entry 7: Overall Project Reflection"
+date: "2026-04-30"
+categories: [reflection, conclusion]
+description: "Overall reflection on the research project and next steps"
+---
+
+![Project reflection](../thumbnail.jpg)
+
+## Overall Project Reflection
+
+In this final journal entry, reflect on your entire research project experience.
+In doing so, please consider the following questions:
+
+### What did you learn?
+
+- What technical skills did you develop?
+- What research methods did you learn?
+- What did you learn about yourself as a researcher?
+
+### What challenges did you face?
+
+- What were the biggest obstacles you encountered?
+- How did you overcome these obstacles?
+- What would you do differently if you could start over?
+
+### What are you most proud of?
+
+- What accomplishments stand out?
+- What aspects of your work exceeded your expectations?
+- What contributions did your research make?
+
+### What are your next steps?
+
+- How will you build on this research in the future?
+- What questions remain unanswered?
+- How might you apply what you learned to future projects?
+
+Use this entry to synthesize your experiences and articulate the value of the
+work you have completed throughout the semester.

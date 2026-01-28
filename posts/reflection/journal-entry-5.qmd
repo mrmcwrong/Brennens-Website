@@ -1,0 +1,54 @@
+---
+title: "Journal Entry 5: Chapters 3 and 4 Reflections"
+date: "2026-04-01"
+categories: [reflection, writing, methodology, results]
+description: "Reflections on writing the Methodology and Results chapters"
+---
+
+![Methodology and results reflection](../thumbnail.jpg)
+
+## Reflections on Writing Chapters 3 and 4
+
+In this journal entry, reflect on your experience writing the methodology and
+results chapters of your junior seminar research report.
+
+### Chapter 3: Methodology
+
+#### Writing Process
+
+- How did you decide which implementation details to include?
+- What was challenging about describing your research methods?
+- How did you use diagrams or code snippets to enhance your explanations?
+- What technical depth was appropriate for your audience?
+
+#### Content Reflections
+
+- Does your methodology chapter clearly explain your approach?
+- Did you adequately describe the infrastructure and tools you used?
+- How well did you address ethical considerations in your methods?
+- Can you draw a diagram or formally outline an algorithm from your implementation?
+- What aspects of your implementation are you most proud of? Why?
+
+### Chapter 4: Experimental Results
+
+#### Conducting and Reporting Experiments
+
+- How did you design your experiments to test your research questions?
+- What metrics did you use to evaluate your work?
+- What challenges did you face in collecting and analyzing data?
+- How did you decide which results to include in your report?
+
+#### Content Reflections
+
+- Do your results effectively demonstrate the value of your work?
+- How did you use visualizations to present your findings?
+- Did you discuss both successes and limitations of your approach?
+- What were the most interesting or unexpected results?
+- How well did you address threats to validity of the experiments?
+
+### Overall Reflections
+
+- How do these chapters demonstrate the contribution of your research?
+- What did you learn about the scientific method through this process?
+- What revisions do you plan to make based on feedback?
+- How has writing these chapters changed your perspective on your research?

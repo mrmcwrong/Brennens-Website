@@ -1,0 +1,31 @@
+# Experimental Results
+
+This chapter describes your experimental setup and evaluation. It should
+also produce and describe the results of your study. The section titles
+below offer a typical structure used for this chapter.
+
+**Note for Junior Seminar**: This chapter should be approximately 5-7
+pages in length. Focus on presenting your key findings clearly. Include
+tables, charts, or graphs to visualize your results. Discuss what worked
+well and what didn't, and explain why.
+
+## Experimental Design
+
+Describe how you designed your experiments or evaluation. What questions
+were you trying to answer? What metrics did you use? How did you collect
+your data?
+
+Especially as it pertains to responsible computing, if conducting
+experiments or evaluations that involve particular ethical considerations,
+detail those issues here.
+
+## Evaluation
+
+Present your results here. Use tables, figures, and charts to display
+your data. Discuss what the results show and how they relate to your
+research questions.
+
+## Threats to Validity
+
+Discuss any limitations of your study or factors that might affect the
+validity of your results. This shows critical thinking about your work.

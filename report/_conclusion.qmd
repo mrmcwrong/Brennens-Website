@@ -1,0 +1,27 @@
+# Conclusions and Future Work
+
+Traditionally, this chapter addresses the areas proposed below as
+sections, although not necessarily in this order or organized as offered.
+However, the last section -- "Ethical Implications" is required for this
+chapter. See the heading below for more details.
+
+**Note for Junior Seminar**: This chapter should be approximately 5-7
+pages in length. Summarize what you accomplished, reflect on what you
+learned, and discuss how this work could be extended in the future.
+
+## Summary of Results
+
+Summarize the key findings and contributions of your research. What did
+you accomplish? What were the main outcomes of your project?
+
+## Future Work
+
+Describe potential extensions or improvements to your work. What would
+you do next if you had more time? What questions remain unanswered?
+
+## Future Ethical Implications and Recommendations
+
+Especially as pertains to the public release or use of your software or
+methods, what unresolved or special issues remain? What recommendations
+might you make? How could future work address ethical concerns raised by
+your research?

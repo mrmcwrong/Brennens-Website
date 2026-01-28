@@ -1,0 +1,24 @@
+---
+title: "Journal Entry 1: Research Idea"
+date: "2026-01-15"
+categories: [research-idea, planning]
+description: "What is your research idea?"
+---
+
+![Research planning](../thumbnail.jpg)
+
+## What is your research idea?
+
+In this first journal entry, describe the problem you plan to investigate and
+your initial approach. Please answer the following questions:
+
+- What is the main problem or question you want to address?
+- Why is this problem important or interesting?
+- What is your initial approach to solving this problem?
+- What tools, technologies, or methods do you plan to use?
+- What do you hope to achieve or discover?
+- What is one published research paper in your area?
+
+Remember to be specific and provide concrete examples where possible. This entry
+will serve as a foundation for your research project, so take time to think
+through your ideas carefully and to document this in this journal entry.

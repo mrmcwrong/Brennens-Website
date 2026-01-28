@@ -1,0 +1,53 @@
+---
+title: "Journal Entry 4: Chapters 1 and 2 Reflections"
+date: "2026-03-01"
+categories: [reflection, writing, introduction, related-work]
+description: "Reflections on writing the Introduction and Related Work chapters"
+---
+
+![Writing reflection](../thumbnail.jpg)
+
+## Reflections on Writing Chapters 1 and 2
+
+In this journal entry, reflect on your experience writing the first two chapters
+of your junior seminar research report.
+
+### Chapter 1: Introduction
+
+#### Writing Process
+
+- How did you approach writing the introduction?
+- What was most challenging about articulating your research problem?
+- How did you determine what background information to include?
+- How did you identify and describe the key contributions of your project?
+
+#### Content Reflections
+
+- How well does your introduction motivate the research problem?
+- Are the aims and objectives of your project clearly stated?
+- Did you effectively highlight the ethical issues related to your work?
+- What feedback have you received on your introduction?
+
+### Chapter 2: Related Work
+
+#### Literature Review Process
+
+- How did you find relevant sources for your literature review?
+- What criteria did you use to select which sources to include?
+- How did you organize the related work into a coherent narrative?
+- What strategies did you use to compare and contrast different approaches?
+
+#### Content Reflections
+
+- How well does your related work chapter situate your research?
+- Did you identify gaps in existing work that your project addresses?
+- How did you connect the related work to the ethical discussions in Chapter 1?
+- What was the most interesting or surprising thing you learned from the literature?
+- What feedback have you received on your related work chapter?
+
+### Overall Reflections
+
+- How do these two chapters work together to set up your research?
+- What overall revisions do you plan to make based on feedback?
+- What did you learn about academic writing through this process?
+- How has writing these chapters deepened your understanding of your research?

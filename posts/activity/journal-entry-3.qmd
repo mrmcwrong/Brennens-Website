@@ -1,0 +1,42 @@
+---
+title: "Journal Entry 3: Brainstorming and Prototyping Experience"
+date: "2026-02-15"
+categories: [brainstorming, prototyping, presentation]
+description: "Experiences with brainstorming, prototyping, and presenting"
+---
+
+![Brainstorming and prototyping](../thumbnail.jpg)
+
+## Brainstorming and Prototyping Experience
+
+In this journal entry, reflect on your experiences with brainstorming your idea,
+developing your prototype, and presenting your work to others.
+
+### Brainstorming Process
+
+- How did you generate and refine your research idea?
+- What techniques or approaches did you use for brainstorming?
+- How did your idea evolve from your initial concept?
+- What feedback did you receive and how did it shape your thinking?
+
+### Prototyping Experience
+
+- What was your approach to building the prototype?
+- What challenges did you encounter during development?
+- What successes or breakthroughs did you experience?
+- How did the actual prototype differ from your initial plans?
+
+### Presentation Experience
+
+- How did you prepare for presenting your work?
+- What went well during the presentation?
+- What would you improve about your presentation?
+- What questions or feedback did you receive?
+- How did presenting your work help you understand it better?
+
+### Lessons Learned
+
+- What did you learn about the research process?
+- What would you do differently next time?
+- How has this experience prepared you for future research projects?
+- What are your questions or concerns as you look towards writing your report's chapters?

@@ -1,0 +1,26 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+## About This Research Journal
+
+This research journal documents my journey through the Junior Seminar research
+project in Computer and Information Science at Allegheny College during the
+Spring 2026 semester.
+
+## Getting Help
+
+If you need assistance with your research project, please contact:
+
+**Professor Gregory M. Kapfhammer**
+
+- Website: [https://www.gregorykapfhammer.com/](https://www.gregorykapfhammer.com/)
+- Schedule Office Hours: [https://www.gregorykapfhammer.com/schedule/](https://www.gregorykapfhammer.com/schedule/)

@@ -1,0 +1,60 @@
+---
+title: "Journal Entry 6: Chapter 5 Reflection"
+date: "2026-04-15"
+categories: [reflection, writing, conclusions, future-work]
+description: "Reflection on writing the Conclusions and Future Work chapter"
+---
+
+![Conclusions reflection](../thumbnail.jpg)
+
+## Reflection on Writing Chapter 5: Conclusions and Future Work
+
+In this journal entry, reflect on your experience writing the final chapter of
+your junior seminar research report.
+
+### Writing the Conclusions
+
+#### Summarizing Your Research
+
+- How did you approach summarizing your research outcomes?
+- What were the key takeaways you wanted readers to understand?
+- How did you connect your conclusions back to your original research questions?
+- What was challenging about synthesizing all your work into a cohesive conclusion?
+
+#### Reflecting on Results
+
+- How well did your research meet your initial objectives?
+- What unexpected outcomes or insights emerged from this project?
+- How did you address limitations or shortcomings in your work?
+- What did you learn about your research topic through this process?
+
+### Proposing Future Work
+
+#### Identifying Next Steps
+
+- How did you identify areas for future research?
+- What limitations of your current work suggest future directions?
+- What new questions emerged from your research?
+- How realistic and specific are your proposed future work items?
+
+#### Ethical Considerations
+
+- Did you address any unresolved ethical issues?
+- What new ethical concerns might future work introduce?
+- How might future research mitigate current limitations?
+
+### Overall Reflections
+
+- How does this chapter provide closure for your research report?
+- What did you learn about the iterative nature of research?
+- How has writing this chapter affected your perspective on your project?
+- What are you most satisfied with in this final chapter?
+- If you could revise anything in this chapter, what would it be?
+
+### Looking Forward
+
+- How might you actually pursue some of the future work you proposed?
+- What skills or knowledge would you need to develop?
+- How has this research project prepared you for future research endeavors?
+- What are the next steps you should take as your prepare for your senior project?
+- What advice would you give to the next group of students in the junior seminar course?
