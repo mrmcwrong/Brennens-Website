@@ -14,13 +14,21 @@ your initial approach. Please answer the following questions:
 
 - What is the main problem or question you want to address?
 There are too many spoilers in my trailers. I want to create an AI tool that uses plot summaries (and maybe potential plot summaries for unreleased films) in order to detect which scenes are likely to be spoilers. The tool would then skip those scenes.
+
 - Why is this problem important or interesting?
 I have had too many movies spoiled for me by trailers and no longer feel I can watch trailers in order to see if I would like a film. This is a problem faced by many every day.
+
 - What is your initial approach to solving this problem?
+Compile a dataset of trailers and manually mark which scenes are spoilers. Then, train an AI model to detect spoilers by comparing these scenes (both alone and with plot summaries from sources like Wikipedia). Finally, make a browser extension that harnesses the trained AI model in order to skip sections of youtube videos with potential spoilers.
 
 - What tools, technologies, or methods do you plan to use?
+Pytorch seems to be a good option for training the AI model at first glance. For the broswer extenion, I will likely use JavaScript.
+
 - What do you hope to achieve or discover?
+I hope to create a prototype that allows users like me to watch trailers without spoilers. I also want to learn how to train AI models with visual and audio analysis capabilities. Finally, I want to learn how to create browser extensions.
+
 - What is one published research paper in your area?
+This paper titled [Fine-Grained Spoiler Detection from Large-Scale Review Corpora](https://aclanthology.org/P19-1248/) by Mengting Wan, Rishabh Misra, Ndapa Nakashole and Julian McAuley is relevant because it illuminates that spoilers (though in books rather than movies for this study) can be detected and follow patterns. Additionally, this paper titled [Hierarchical Multimodal Transformer to Summarize Videos](https://arxiv.org/abs/2109.10559) by Bin Zhao, Maoguo Gong and Xuelong Li talks about how researchers are able to apply both audio and visual analysis to summarize videos with RNN techniques. This could be useful and should be explored further.
 
 Remember to be specific and provide concrete examples where possible. This entry
 will serve as a foundation for your research project, so take time to think
