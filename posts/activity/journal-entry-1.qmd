@@ -5,7 +5,7 @@ categories: [research-idea, planning]
 description: "What is your research idea?"
 ---
 
-![Research planning](../thumbnail.jpg)
+![Research planning](../journal1photo.jpg)
 
 ## What is your research idea?
 
@@ -14,28 +14,26 @@ your initial approach. Please answer the following questions:
 
 - What is the main problem or question you want to address?
 
-There are too many spoilers in my trailers. I want to create an AI tool that uses plot summaries (and maybe potential plot summaries for unreleased films) in order to detect which scenes are likely to be spoilers. The tool would then skip those scenes.
+I (and many others) struggle to both begin and finish creative projects. This problem will be solved with an app that prompts users to perform bite-sized creative acts each day.
 
 - Why is this problem important or interesting?
 
-I have had too many movies spoiled for me by trailers and no longer feel I can watch trailers in order to see if I would like a film. This is a problem faced by many every day.
+I want to be more motivated in creating content in general. I feel that I am a lazy person sometimes and I know people that believe the same about themselves, so I want to create a tool that can help people like me to see manageable tasks without feeling overwhelmed and begin creating content.
 
 - What is your initial approach to solving this problem?
 
-Compile a dataset of trailers and manually mark which scenes are spoilers. Then, train an AI model to detect spoilers by comparing these scenes (both alone and with plot summaries from sources like Wikipedia). Finally, make a browser extension that harnesses the trained AI model in order to skip sections of youtube videos with potential spoilers.
+The app will give users a 1, 2, and 3 point prompt each day and the users choose which prompt they want to complete on the day. Users will then upload a photo, file, or text comment to the app and they will be awarded points for the day which will be tracked on the league table against robotic competitors. These competitors will dynamically adapt to the user's amount of creative output so that they will allow users who skip a day to get back in easier and also provide more of a challenge to more competitive users. The user's creative projects will be stored on their profile page.
 
 - What tools, technologies, or methods do you plan to use?
 
-Pytorch seems to be a good option for training the AI model at first glance. For the broswer extenion, I will likely use JavaScript.
+I initially started coding with Swift and SwiftUI, but I have a Windows computer and I found it difficult to get Swift to function properly. I have switched to using Flutter and Dart because it offers cross-platform development and I can use it on my Windows computer.
 
 - What do you hope to achieve or discover?
 
-I hope to create a prototype that allows users like me to watch trailers without spoilers. I also want to learn how to train AI models with visual and audio analysis capabilities. Finally, I want to learn how to create browser extensions.
+I hope to become better (and able) to build an app for iOS and Android using Flutter. I also hope to create an app that will allow users to be more creative generally and not feel overwhelmed by the prospect of starting a creative project.
 
 - What is one published research paper in your area?
 
-This paper titled [Fine-Grained Spoiler Detection from Large-Scale Review Corpora](https://aclanthology.org/P19-1248/) by Mengting Wan, Rishabh Misra, Ndapa Nakashole and Julian McAuley is relevant because it illuminates that spoilers (though in books rather than movies for this study) can be detected and follow patterns. Additionally, this paper titled [Hierarchical Multimodal Transformer to Summarize Videos](https://arxiv.org/abs/2109.10559) by Bin Zhao, Maoguo Gong and Xuelong Li talks about how researchers are able to apply both audio and visual analysis to summarize videos with RNN techniques. This could be useful and should be explored further.
+Below is a link to "From Game Design to Gamefulness: Designing 'Gamification'"
 
-Remember to be specific and provide concrete examples where possible. This entry
-will serve as a foundation for your research project, so take time to think
-through your ideas carefully and to document this in this journal entry.
+https://creativegames.org.uk/modules/Gamification/Deterding_Dixon%20etal_Gamification-2011.pdf
