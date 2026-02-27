@@ -5,7 +5,7 @@ categories: [prototype, documentation]
 description: "How do you install and use your research prototype?"
 ---
 
-![Research prototype](../thumbnail.jpg)
+![Research prototype](../thumbnail_journal_2.png)
 
 ## How do you install and use your research prototype?
 
