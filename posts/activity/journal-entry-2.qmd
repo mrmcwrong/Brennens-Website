@@ -1,6 +1,6 @@
 ---
 title: "Journal Entry 2: Prototype Installation and Use"
-date: "2026-02-01"
+date: "2026-02-26"
 categories: [prototype, documentation]
 description: "How do you install and use your research prototype?"
 ---
@@ -15,23 +15,134 @@ Your goal is to make it easy for someone else to install and use your work.
 ### Installation Instructions
 
 - What are the system requirements?
+
+    - A Windows computer with Windows 10+ installed.
+    - An Android phone with Android 5+ installed OR an Android Virtual Device (AVD) emulator functioning with Android 5+.
+
+
 - What dependencies need to be installed?
+    - The Flutter SDK will need installed in VS Code.
+
+    - The following dependencies will be installed with ```flutter pub get```:
+        - shared_preferences
+        - google_fonts
+        - image_picker
+        - path_provider
+        - path
+        - file_picker
+        - open_filex
+        - mime
+
+
 - What are the step-by-step installation instructions?
+
+#### 1. Install Flutter
+
+-Download from flutter.dev/docs/get-started/install
+
+-Follow the Windows install guide
+
+-Run ```flutter doctor``` in terminal and fix any issues it flags
+
+
+#### 2. Install Android Studio (for an android emulator)
+
+-Download from developer.android.com/studio
+
+-During setup, install Android SDK and create a virtual device [I chose the Pixel 9] OR use a physical Android/iOS device with USB debugging enabled
+
+
+#### 3. Install Git (if not already installed)
+
+-Download from git-scm.com
+
+
+#### 4. Clone the repository
+
+-Use the following commands in your terminal:
+
+```
+git clone https://github.com/mrmcwrong/MakeUp.git
+
+cd MakeUp
+```
+
+#### 5. Install dependencies
+
+-Use the following command in your terminal:
+```
+flutter pub get
+```
+
+#### 6. Accept Android licenses
+
+-Use the following commands in your terminal:
+```
+flutter doctor --android-licenses
+```
+Press y to accept all.
+
+
+#### 7. Open in VS Code
+
+
+#### 8. Start an emulator
+
+Choose one of the three following options:
+
+-Open Android Studio > Device Manager > Play button on your virtual device
+
+-Connect a physical device via USB
+
+-Click the device button in the bottom right corner of the VS Code window (It probably says "Windows (windows-x64)" or something similar if you have not yet selected a device) and choose your AVD in the dropdown menu.
+
+#### 9. Run the app
+
+-In VS Code, press F5 or go to Run → Start Debugging OR in the terminal:
+```
+flutter run
+```
+
 - How can someone verify that the installation was successful?
+
+When pressing F5 or using ```flutter run```, the app should be created in either your AVD, Windows, Chrome or Edge (depending on your default option or choice in the terminal).
 
 ### Usage Instructions
 
 - How do you run your prototype?
+
+Use ```flutter run``` in the terminal or press F5.
+
 - What are the main features or capabilities?
+
+Currently, the user can use the daily and weekly prompts fluidly and flawlessly. They update at the beginning of each day/week respectively. These submissions may be pretty much any file type, though bugs may be encountered on the profile page when attempting to open submissions of certain file types (please report any bugs to me if you find them) The profile page updates correctly and shows all past submissions by the user. Filters allow the user to sort through and exclude certain entries; a search bar also accommodates keyword searches. The competitors on the league page currently only function off a simple points system, but competition is technically functional. The current prototype also includes a debug button in the top right corner of the app which, if clicked five times, allows the user to speed up the app's clock to move at a pace of 1 day for every five real life seconds.
+
 - What are some example use cases?
+
+Example 1: A person may be overwhelmed by the prospect of a large creative project, so they turn to MakeUp to suggest smaller, bite-sized creative projects.
+Example 2: A person does not know where to begin with possible creative projects but know they want to do something, so they turn to MakeUp for ideas of many different disciplines.
+Example 3: A person needs a competitive spark to motivate them to produce creative content, so they use MakeUp to push themselves.
+Unorthodox Example of a Use of MakeUp: There is not (as far as I can tell) a league/tournament creator for casual organizers that both **allows competitor/participant customization of logo** AND is **free**. A user could ignore the creativity aspects of the app and use the league screen's customizable nature to make a league table with logos that updates regularly. They would need a way to track matches and change scores, however. Potentially a seperate app? Another project for another day.
+
 - Are there any configuration options or settings?
+
+Users can edit their own logo and name and competitors' logos and names. In the future, customization of prompt categories, app colors, difficulty levels, streak counter, competition types and more will all be added.
 
 ### Technical Details
 
 - What technologies or frameworks did you use?
+    -Flutter
+        -Dart
+    -Android Studio
 - Why did you choose these particular tools?
+Flutter is a useful tool because it accomodates both Android and iOS app development. Flutter uses the language "Dart" for most coding, but also uses C++, plist files, xml files, Swift and other languages in some supporting files. These files generally haven't had to be touched too much yet except to make changes to the app's name, some properties and its permission requirements.
+Android Studio is also very important because it allows me to test the app in an android environment without possessing an android phone.
 - What are the key components or modules?
+    -main.dart is the main app and is where almost all of my programming has been done.
+    -debug_overlay.dart is where the debug button in the top right corner of the app is created
+    -debug_time.dart is where the speeding up of time is kept track of. Originally, I was using a function in main.dart called DateTime.now() that did not use a seperate debug_time.dart file, but it got very              confused and caused contradictions within my main.dart. Debug_time.dart is working much better so far.
 - How do the different parts work together?
+debug_overlay.dart and debug_time.dart exist in a layer higher than main.dart and the files that flutter uses to create the app. The main.dart file uses a widget called MainNavigationScreen to manage all four pages (daily, weekly, league and profile screens), then the debug files manipulate main.dart from above.
 
 Remember to include code snippets, screenshots, or diagrams where appropriate to
 make your instructions clear and easy to follow.
