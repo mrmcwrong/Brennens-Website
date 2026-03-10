@@ -1,30 +1,33 @@
 # Introduction
 
-This chapter describes your completed junior seminar research project,
-including the overall aims and the background motivating your research.
-Whenever possible, you should use one or more concrete examples and
-technical diagrams.
+## Background
 
-**Note for Junior Seminar**: This chapter should be approximately 5-7
-pages in length. Focus on clearly articulating your research problem,
-your approach, and why it matters. You don't need to provide exhaustive
-detail - prioritize clarity and coherence over comprehensiveness.
+This project addresses the problem of creative burnout and lack of motivation for both starting and finishing creative projects. Many are frustrated with their perceived inability to finish projects or feel overwhelmed by the prospect of some ideas that seem too large. Others find it difficult to begin projects in the first place, pointing to a lack of ideas, motivation, a fear of failure and intimidation (among other reasons). MakeUp is an app that provides users with bite-sized creative prompts and a competition system in order to encourage users to both start smaller novel projects and to encourage users to consistently finish projects that motivate them to continue creating rather than uninstalling the app or quitting creative projects altogether.
 
-It is often useful and necessary to separate the introduction into
-multiple sections. Several possible sections are proposed below, you
-can use these or distribute your introductory text into sections in
-another way.
+It has been found that a moderate level of competition can increase both creative productivity and originality (Gross [1]). If a creative actor has is faced with a challenge that they perceive as too difficult, they will abandon the project that they were going to produce, meaning that this creative work will never be shared with the rest of the world. If the competition is perceived as too easy, however, the subject will not be motivated to create a project with a high degree of originality. Because of the low bar set by low competition, much of competitors' output will be very similar to each other. MakeUp features a dynamic competition system that adapts to the user's level of creative activity. If a user is consistently submitting projects and collecting higher point totals per day and week, the competition will increase in difficulty in order to motivate the user to continue completing prompts in the app. If a user is struggling to submit projects regularly due to time constraints or lack of motivation, or uninstalled the app but is reinstalling it during a burst of motivation, the competition will ease the user into the app by providing a less punishing competitive environment. This will hopefully discourage users from uninstalling the app within a day or two, pushing their motivational satellite into an orbit rather than a crash to the ground (only to be launched unsuccessfully again at a later date).
 
-The headings below propose _one way_ you might structure this section
-of the document.
+MakeUp also is designed to help the user form habits when tackling creative projects by emphasizing convenience. Apps are a unique tool in that they are readily available for a large portion of the population. About 91% of Americans own a smartphone, including about 96% of American adults under 50 years of age (Pew Research Center [2]). Apps are accessible to most to use in the first place and are also staring users in the face when they record their average screen time of roughly 5 hours per day (Alam et. al. [3]). Conveniency is king when forming habits: businesses that have launched mobile apps have generally seen an increase in their sales figures due to the formation of habitual interaction with brands (van Heerde [4]). The potential for apps to help users form desired habits is also evident for students. Students who used a mobile app to intentionally track their habits over just 6 weeks were able to significantly increase the automaticity of their desired behaviors as well as limit their motivational impairments (Stojanovic [5]). It is clear that an app is one of the most powerful tools that could be implemented to help users form habits; MakeUp uses the convenience of app accessibility and visibility in order form patterns of consistent creative output.
 
-## Motivation
+
+## Societal Implications/Broader Impacts
+
+- Because of the bite-sized nature of projects, dopamine could be boosted more frequently in smaller doses and will cause a more consistent motivation to create content but could cause an addiction to the app or an obsession with maintaining a streak (similar problems with Snapchat and Duolingo).
+    - This will be addressed by having a limit on the amount of points that can be earned in a day or week.
+- MakeUp could cause people to have a toxic competitive relationship with the app.
+    - We will be avoiding real life competition to minimize toxic competition.
 
 ## Current State of the Art
 
 ## Goals of the Project
 
 ## Ethical Implications
+
+- MakeUp will be entirely local, so creative projects will not be stored by the creators of the app. This will mitigate privacy concerns and potential misuse of data.
+- Though MakeUp does not have an online competition element, people may still compare their points totals and try to boost their points through their weekly prompts (and in the process, misuse the tool). This could also cause unhealthy competition between users.
+    - Point caps on weekly prompts will help marginalize this issue.
+- People could become overly reliant on the creative prompts given by the app instead of making their own creative projects.
+    - The weekly prompts are user-created so that users are still creating their own content and ideas.
+    - The app will have a very large database of prompts so that users come across a large variety of prompts.
 
 This document requires that you discuss the ethical implications of your
 work -- no matter how benign you consider the outcome of your project.
@@ -45,3 +48,11 @@ them.
 
 In addition, reflect on ways that the above harms can be or are
 mitigated by your work.
+
+
+## Key contributions
+
+- MakeUp is an app that encourages users to consistentally create bite-sized projects rather than burning out or becoming overwhelmed by larger projects.
+- MakeUp also features a dynamic competition element that both eases in users that have not submitted a project in a while and also challenges more competitive users who have been consistently submitting projects.
+    - The goal should be moderate competition that challenges users slightly but does not feel overly uncomfortable.
+- MakeUp was tested by timing different elements in an efficient way that doesn't slow down the app meaningfully.

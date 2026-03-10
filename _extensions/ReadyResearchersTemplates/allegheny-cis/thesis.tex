@@ -16,6 +16,9 @@ $endif$
 
 \usepackage[letterpaper, portrait, margin=1.5in]{geometry}
 
+\usepackage{fvextra}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines, breakanywhere, breaknonspaceingroup, commandchars=\\\{\}}
+
 $if(csl-refs)$
 % definitions for citeproc citations
 \NewDocumentCommand\citeproctext{}{}
@@ -132,33 +135,32 @@ $endif$
 
 \begin{document}
 
-\pagestyle{empty} % No page numbers
-\begin{titlepage}
-	\AddToShipoutPicture*{\BackgroundPic}
-	\begin{center}
-		\vfill
-		{\large \scshape Allegheny College \\ Computer And
-			Information Science Department }\\[1.4cm]
-		{\Large Junior Seminar Research Report}\\[0.5cm]
-		\rule{\textwidth}{1.5pt}\\[0cm]
-		{\huge \bfseries $title$ \par \ }\\[-0.5cm]
-		\rule{\textwidth}{1.5pt}\\[0.5cm]
-		\hfill  by\\[0.5cm]
-		\hfill  {\large \bfseries $author$}\\
-		\vfill
-		{\hfill \large Instructor: \textbf{$firstreader$}} \\
-		{\hfill \large Technical Leader: \textbf{$secondreader$}} \\
-		\vspace{1cm}
-		\hfill  $date$
-	\end{center}
-\end{titlepage}
+  \pagestyle{empty} % No page numbers
+  \begin{titlepage}
+  \AddToShipoutPicture*{\BackgroundPic}
+    \begin{center}
+      \vfill
+      {\large \scshape Allegheny College \\ Computer And Information Science Department }\\[1.4cm]
+      {\Large Senior Thesis}\\[0.5cm]
+      \rule{\textwidth}{1.5pt}\\[0cm]
+      {\huge \bfseries $title$ \par \ }\\[-0.5cm]
+      \rule{\textwidth}{1.5pt}\\[0.5cm]
+      \hfill  by\\[0.5cm]
+      \hfill  {\large \bfseries $author$}\\
+      \vfill
+      {\hfill \large Project Supervisor: \textbf{$firstreader$}} \\ 
+      {\hfill \large Co-Supervisor: \textbf{$secondreader$}} \\
+      \vspace{1cm}
+      \hfill  $date$
+    \end{center}
+  \end{titlepage}
 
 $if(abstract)$
 \pagestyle{empty}
 \begin{abstract}
-	$abstract$
+  $abstract$
 \end{abstract}
-$endif$
+$endif$		
 
 \newpage
 

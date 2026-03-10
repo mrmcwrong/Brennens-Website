@@ -10,7 +10,7 @@ format:
 natbiboptions: numbers
 # EDIT AT YOUR OWN PERIL #
 
-title: Brennen's Proxy Title
+title: Convenient Creative Output through Gamification: Does Dynamic Competition Increase Users' Satisfaction with their Creative Output?
 
 firstreader: Professor Gregory M. Kapfhammer
 secondreader: Student Second Reader
@@ -21,7 +21,7 @@ author:
   - name: Brennen McWright
     affiliation:
       name: Allegheny College
-      address: 520 N. Main St., Box Q
+      address: 520 N. Main St., Box 1584
       city: Meadville
       state: Pennsylvania
       country: USA
