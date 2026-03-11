@@ -58,7 +58,7 @@ demonstrated in the following blockquote. (Inspect the `index.qmd` file
 to see the format.)
 
 > A citation, when included correctly, will appear as it does at the end
-> of this sentence. [@plaat1996research]
+> of this sentence. [@Gross2020]
 
 ## Labeling figures
 
