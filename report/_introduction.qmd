@@ -10,13 +10,28 @@ MakeUp also is designed to help the user form habits when tackling creative proj
 
 ## Overview of MakeUp
 
-MakeUp is an android application that uses a point system and prompts to encourage users to submit bite-sized creative projects to the app every day. Users are given three daily prompts at midnight each day: a one-point, two-point and three-point prompt (the amount of points should correlate roughly to the time commitment required for a project). The user can choose one of the three prompts each day to complete and submit to the app. These prompts should be able to be completed in a short amount of time; one-point prompts should be completable in about 10 minutes, two-point prompts in about 20 minutes, and three-point prompts in about 30 minutes. Prompt submissions will be uploaded to the user's profile page, which displays all past file and text submissions so that the user can see tangible results. Users who can more easily see the measurable progress that they have made using the app will be more likely to gain a positive perception of their work (@Amabile2007).
+MakeUp is an android application that uses a point system and prompts to encourage users to submit bite-sized creative projects to the app every day. Users are given three daily prompts at midnight each day: a one-point, two-point and three-point prompt (the amount of points should correlate roughly to the time commitment required for a project). The user can choose one of the three prompts each day to complete and submit to the app. These prompts should be able to be completed in a short amount of time; one-point prompts should be completable in about 10 minutes, two-point prompts in about 20 minutes, and three-point prompts in about 30 minutes. Prompt submissions are uploaded to the user's profile page, which displays all past file and text submissions so that the user can see tangible results. Users who can more easily see the measurable progress that they have made using the app will be more likely to gain a positive perception of their work (@Amabile2007).
 
 Similarly, users are able to complete a weekly prompt that is submitted to their profile page. The difference, however, is that rather than the weekly prompt being assigned each week, the user is required to submit their own prompt or goal to the app and assign it its own point value (capped at 15 points). This allows users who benefit more from a journaling workstyle to set their own goals and track their progress through the profile page, which displays both completed weekly prompts and past weekly prompt ideas that were never finished. The weekly prompt also safeguards users from an overreliance on prompts which are not original to them. While the daily prompts can be a great source of inspiration and helpful for bite-sized projects, the trade-off is that users may not diverge much from what they see others doing for similar projects because the base idea for the project is not their own. Additionally, the daily prompt is limited in that the user may not necessarily love the three ideas that they are given each day. The weekly prompt gives users an outlet to create their own projects from scratch and explore more niche projects that may not be included in the app's daily prompts (both on a specific day or generally). Summarized, the daily prompt is a powerful tool for kickstarting the creative process and providing inspiration for more easily completable projects with quickly visible results, while the weekly prompt should be harnessed to provide flexibility within the app's experience and to encourage users to flex their creative muscles in a more personal way.
 
-The component of the app that helps to motivate users in their quest for increased creative output is the "League" system. Users are placed on a leaderboard with rival non-human competitors. The user then accumulates points over a four week period or "season" by completing daily and weekly prompts. This accumulation of points or lack therof causes the user to rise or fall on the leaderboard. If a user places above a certain threshold on the leaderboard, they will be promoted to a higher league. If they place below a certain threshold, they will be relegated to a lower league.
+The component of the app that helps to motivate users in their quest for increased creative output is the "League" system. Users are placed on a leaderboard with rival non-human competitors. The user then accumulates points over a four week period or "season" by completing daily and weekly prompts. This accumulation of points or lack therof causes the user to rise or fall on the leaderboard. Competitors also move up and down the leaderboard based on a combination of the difficulty in the app settings, random chance, and, most importantly, the user's consistency of submission to the app. Competitor difficulty adjusts based on the user's upload rates at a given time so that users who are submitting projects consistently will be faced with a larger challenge and users whose consistency are waning or those who are just starting out will be eased into the competition. The goal is to minimize the feeling of overwhelming competition while still providing a moderate level of competition that does not feel too easy.
 
-## Societal Implications/Broader Impacts
+If a user places above a certain threshold on the leaderboard at the end of the four-week league period, they will be promoted to a higher rank. If they place below a certain threshold, they will be relegated to a lower rank. These ranks help the user to always have something to work towards rather than just finishing a league and saying "I won!" and uninstalling the app. The ranks also help give the user a long-term feeling of progress that they can measure and observe over time.
+
+## Societal Impact and Improving on Similar Tools
+
+Gameification of a habit or action is not an especially new idea. Popular apps like Duolingo, Habitica and Yousician have all implemented competitive elements in an attempt to aid others in learning a new language, forming habits and learning to play an instrument, respectively. MakeUp is similar to these apps in that it also uses gamification to encourage users to form habits and complete projects, but it also aims to improve on some major flaws faced by each of these apps.
+
+### Duolingo
+
+Duolingo is probably the most successful app to compare MakeUp to regarding its gameification approach. It has an extremely large user base (50 million daily active users) and is the most popular language learning app that exists right now. Duolingo's strengths lie in its ability to ease users into the experience and help users to not feel overwhelmed by the large scale of learning a new language. Another strength of Duolingo is its competition system, which is implemented to help motivate users by providing dopamine boosts through the user's rising through the leaderboards.
+
+There are significant problems, however, with Duolingo's competition system. Because the tournaments are exclusively real people competing against other real people, it is difficult to help casual users progress through the ranks. This can make users feel consistently defeated without getting the dopamine boost of winning (because they're not). Leagues can also feel unfair to both users who are starting out and users who are consistently using the app because of the lack of seperation of languages in the leagues. An English-speaking user who is learning Japanese, for example, will be put in a league with users who are learning Spanish, which is considered a much easier language for English speakers to learn (@Languages).
+
+MakeUp's competition system address these issues by implement non-human competitors which adapt to the user's level of activity. This dynamic experience offers casual users the opportunity to still feel a sense of accomplishment while keeping them engaged with the app. The removal of living competitors also levels the playing field by introducing controllable opposition. If the dynamic competition feels too easy or difficult, the user may personalize their league experience by setting a flat difficulty that may be higher or lower depending on their desired degree of struggle.
+
+
+
 
 -projects other and how my project improves it
 
@@ -69,3 +84,15 @@ mitigated by your work.
 crumbl cookies user suggestions voting to add verification of user-friendliness
 
 daily prompts added by user as well to pull
+
+nudge unit (BIT)
+
+Tiny Habits, Big Results book by BJ Fogg
+
+Tiny Experiments book (find it)
+
+Maya Shankar the other side of change
+podcast "A slight change of plans"
+should governments invest more in nudging?
+
+kafkav 3 pass reading method
