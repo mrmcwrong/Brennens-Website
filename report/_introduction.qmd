@@ -18,7 +18,7 @@ The component of the app that helps to motivate users in their quest for increas
 
 If a user places above a certain threshold on the leaderboard at the end of the four-week league period, they will be promoted to a higher rank. If they place below a certain threshold, they will be relegated to a lower rank. These ranks help the user to always have something to work towards rather than just finishing a league and saying "I won!" and uninstalling the app. The ranks also help give the user a long-term feeling of progress that they can measure and observe over time.
 
-## Societal Impact and Improving on Similar Tools
+## Improving on Similar Tools and the State of Competition for Habit-Building
 
 Gameification of a habit or action is not an especially new idea. Popular apps like Duolingo, Habitica and Yousician have all implemented competitive elements in an attempt to aid others in learning a new language, forming habits and learning to play an instrument, respectively. MakeUp is similar to these apps in that it also uses gamification to encourage users to form habits and complete projects, but it also aims to improve on some major flaws faced by each of these apps.
 
@@ -30,20 +30,22 @@ There are significant problems, however, with Duolingo's competition system. Bec
 
 MakeUp's competition system address these issues by implement non-human competitors which adapt to the user's level of activity. This dynamic experience offers casual users the opportunity to still feel a sense of accomplishment while keeping them engaged with the app. The removal of living competitors also levels the playing field by introducing controllable opposition. If the dynamic competition feels too easy or difficult, the user may personalize their league experience by setting a flat difficulty that may be higher or lower depending on their desired degree of struggle.
 
+### Habitica
 
+Habitica is an app that encourages users to form routines and establish practices by gamifying the process of habit formation. Users are able to create their own habits and assign them point values similarly to the weekly prompt function in MakeUp. Users then earn points for completing their habits and can use those points to buy rewards or to compete with other users in a guild (a group of users that band together). Completing tasks also generates XP and helps complete RPG-style missions. This offers competition with both real life users and NPC opponents.
 
+There are some significant problems with Habitica's approach to gamification however. Habitica's progress is measured in character levels, which means that the actual habit accomplishments are too bitesized to be a primary source of motivation within the app. Because of this, progress can feel slow if you are completing the habits you wanted to build, but you didn't level up that day or even that week. Additionally, Habitica can be very overwhelming from a features standpoint. Because the app is structured similarly to an RPG, there are a plethora of items, missions and tasks to complete. This can be a good thing if a user is experienced with the game, but can also provide a steep learning curve for new users and can make the app feel overwhelming and difficult to navigate. The amount of time spent maximizing the XP or resources needed for specific missions and deciding which items to purchase can distract from the actual habit-building part of the game.
 
--projects other and how my project improves it
+The app can overwhelm the user, but so can the user themselves. Because there is no limit on the amount of tasks or habits that a user gives themselves, users can spend a lot of time and effort just creating and monitoring their own challenges. This creates a crowded atmosphere on the screen and causes tasks that user finds less important or motivating to distract from the habits that the user initially installed the app in order to build.
+
+MakeUp solves all of these problems by implementing a minimalistic design that is as user-friendly as possible, setting healthy limits on daily use, and making daily accomplishments feel meaningful every single day that the user interacts with the app. MakeUp's pastel yellow and brown design features a large amount of negative space and simple elements, allowing the user to focus on their prompts without being distracted by an overcrowded layout. Additionally, users are limited to one daily prompt per day and one weekly prompt per week, preventing the user from overloading themselves with tasks and habits that they may not be motivated to complete. It should never feel like a burden to open the app and be greeted by an overwhelming amount of work to do; rather, the app should be opened, it should help the user with a bite-sized task, and then it should be closed. The focus is meant for the tasks and habits rather than an immense amount of distractions. Daily accomplishments feel meaningful due to the aformentioned limit on daily submissions and also the fact that a stepping stone is provided every single day. Because there is a single task per day, it both provides a greater meaning to the completion of a task and also helps moderate the user's ability to overwhelm themselves.
+
+## Ethical Implications
 
 - Because of the bite-sized nature of projects, dopamine could be boosted more frequently in smaller doses and will cause a more consistent motivation to create content but could cause an addiction to the app or an obsession with maintaining a streak (similar problems with Snapchat and Duolingo).
     - This will be addressed by having a limit on the amount of points that can be earned in a day or week.
 - MakeUp could cause people to have a toxic competitive relationship with the app.
     - We will be avoiding real life competition to minimize toxic competition.
-
-## Current State of the Art
-
-## Ethical Implications
-
 - MakeUp will be entirely local, so creative projects will not be stored by the creators of the app. This will mitigate privacy concerns and potential misuse of data.
 - Though MakeUp does not have an online competition element, people may still compare their points totals and try to boost their points through their weekly prompts (and in the process, misuse the tool). This could also cause unhealthy competition between users.
     - Point caps on weekly prompts will help marginalize this issue.
