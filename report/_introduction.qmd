@@ -1,6 +1,10 @@
 # Introduction
 
-## Background
+## Structure of the Senior Comprehensive Project
+
+This report is divided into five chapters. Chapter One discusses the key contributions of MakeUp, its improvements on similar projects, and MakeUp's ability to address ethical concerns. Chapter Two explores relevant literature and connects it to the research conducted for this project. Chapter Three explains the research process, the development of MakeUp, the design of experiments, and the tools used in this project. Chapter Four illustrates the results of the MakeUp experiment and any problems that were found within the experiment. Finally, Chapter Five summarizes and discusses the findings of this project and shines a light upon the significance of the actions taken to finalize MakeUp. This structure helps provide clarity and fluidity to this report.
+
+## Background and Motivations
 
 This project addresses the problem of creative burnout and lack of motivation for both starting and finishing creative projects. Many are frustrated with their perceived inability to finish projects or feel overwhelmed by the prospect of some ideas that seem too large. Others find it difficult to begin projects in the first place, pointing to a lack of ideas, motivation, a fear of failure and intimidation (among other reasons). MakeUp is an app that provides users with bite-sized creative prompts and a competition system in order to encourage users to both start smaller novel projects and to encourage users to consistently finish projects that motivate them to continue creating rather than uninstalling the app or quitting creative projects altogether.
 
@@ -42,59 +46,11 @@ MakeUp solves all of these problems by implementing a minimalistic design that i
 
 ## Ethical Implications
 
-- Because of the bite-sized nature of projects, dopamine could be boosted more frequently in smaller doses and will cause a more consistent motivation to create content but could cause an addiction to the app or an obsession with maintaining a streak (similar problems with Snapchat and Duolingo).
-    - This will be addressed by having a limit on the amount of points that can be earned in a day or week.
-- MakeUp could cause people to have a toxic competitive relationship with the app.
-    - We will be avoiding real life competition to minimize toxic competition.
-- MakeUp will be entirely local, so creative projects will not be stored by the creators of the app. This will mitigate privacy concerns and potential misuse of data.
-- Though MakeUp does not have an online competition element, people may still compare their points totals and try to boost their points through their weekly prompts (and in the process, misuse the tool). This could also cause unhealthy competition between users.
-    - Point caps on weekly prompts will help marginalize this issue.
-- People could become overly reliant on the creative prompts given by the app instead of making their own creative projects.
-    - The weekly prompts are user-created so that users are still creating their own content and ideas.
-    - The app will have a very large database of prompts so that users come across a large variety of prompts.
+With any new tool, there are potential ethical implications that should be considered. Submission-based tools specifically have to be concerned about users' data and privacy rights. MakeUp will be entirely local, so creative projects will not be stored in a location where anyone other than the owner of the device on which MakeUp is installed could see their data. Additionally, MakeUp does not require any data to be collected from the user regarding personal details; the most personal that MakeUp could get is the user's file uploads and username preference. This will mitigate privacy concerns and the potential misuse of data.
 
-build your own closed community
+Another potential concern is the addictive nature that some apps can possess. Everytime a goal is accomplished, dopamine is released and the brain is trained to recreate that feeling. Without any limits on usage, players could develop an unhealthy relationship with the app. This could also dilute the impact of completing a task because of the quantity of tasks completed each day. In order to prevent this, a once-per-day limit has been placed on the user's daily submission capabilities. This submission cap will help combat obsessions with the app and also will make user's more satisfied with the submission of each task, helping users want to come back to the app each day so as to encourage consistent creative output while maintaining a healthy relationship with the app.
 
-This document requires that you discuss the ethical implications of your
-work -- no matter how benign you consider the outcome of your project.
-As several major studies of ethical issues in computer science assert:
-_no project is completely value-neutral_.
+An alternate form of overreliance could be found in the user's dependence on MakeUp's creativity prompts. Though MakeUp's daily prompts offer inspiration to those who are struggling to start projects or are unaware of some niche creativity categories, users could also bank too heavily on the specific prompts given by MakeUp in order to develop creative ideas. This could potentially lead to a loss of some originality because the base idea was not created by the user. This problem is addressed by the weekly prompt. Users may create their own prompt to be completed over the course of a week and assign a point value to that prompt that they consider reasonable. This allows the user to begin the creative process with their own idea and also offers greater flexibility to users who may not be interested in some of the daily prompts they've been given. The daily prompt database is also extremely expansive in order to give the users as diverse of a base idea as possibleThe weekly prompt solves the overreliance problem while still allowing the daily prompts to exist and inspire users to complete projects.
 
-To assist you in elaborating on these issues, the following areas are
-topics you might consider addressing. You do not need to address all of
-them.
+A common critique of apps that use gamification are their potential to create toxic competitive environments. If the competition is too intense, users may feel defeated and unmotivated. This can also lead to higher ranked players being considered "better" than lower ranked players. Users may feel pressured to perform better than other real-life app members, which could lead to unhealthy competition and resentment between users. This also leaves no room for casual participants in the MakeUp experience. Ultimately, MakeUp's objective is self-help rather than a focus on comparisions with other users. This is why MakeUp will contain no human competition element until a healthy way of implementing it is discovered. Instead, non-human competitors will take its place, offering easily-controllable competition that minimizes toxicity in MakeUp's environment.
 
-* Information Privacy
-* Information Accuracy (e.g. can contain reliability)
-* Potential Misuse (e.g. computer crime, unintended consequences)
-* Second- or Third-Party Risk (e.g. safety)
-* Data Collection Issues (e.g. issues inherent in collecting data)
-* Algorithmic or Data Bias
-* Potential Power Difference / Social Imbalance / Issues in Equity
-
-In addition, reflect on ways that the above harms can be or are
-mitigated by your work.
-
-
-## Key contributions
-
-- MakeUp is an app that encourages users to consistentally create bite-sized projects rather than burning out or becoming overwhelmed by larger projects.
-- MakeUp also features a dynamic competition element that both eases in users that have not submitted a project in a while and also challenges more competitive users who have been consistently submitting projects.
-    - The goal should be moderate competition that challenges users slightly but does not feel overly uncomfortable.
-- MakeUp was tested by timing different elements in an efficient way that doesn't slow down the app meaningfully.
-
-crumbl cookies user suggestions voting to add verification of user-friendliness
-
-daily prompts added by user as well to pull
-
-nudge unit (BIT)
-
-Tiny Habits, Big Results book by BJ Fogg
-
-Tiny Experiments book (find it)
-
-Maya Shankar the other side of change
-podcast "A slight change of plans"
-should governments invest more in nudging?
-
-kafkav 3 pass reading method
